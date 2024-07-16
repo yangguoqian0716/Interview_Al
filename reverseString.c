@@ -1,3 +1,5 @@
+# 双指针法
+
 void reverseString(char *s,int sSize)
 {
   int left = 0;
